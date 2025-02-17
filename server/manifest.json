@@ -1,0 +1,16 @@
+{
+    "name": "OXFORD ADMIN",
+    "short_name": "OXFORD ADMIN",
+    "start_url": "../index.php",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#f5f5f9",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "../assets/img/logoes/oxf.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
